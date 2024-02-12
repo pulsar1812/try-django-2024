@@ -4,3 +4,5 @@ django-dotenv==1.4.2
 pytz==2024.1
 sqlparse==0.4.4
 typing_extensions==4.1.1
+gunicorn
+psycopg2-binary
